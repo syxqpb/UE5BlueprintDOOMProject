@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# Cache files for the editor to use
+Platforms/*
+
+Platforms/*/Windows/*/
+
+
